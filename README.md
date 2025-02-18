@@ -100,10 +100,4 @@ The **Green Compliance & Carbon Tracking System** is a powerful tool designed to
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
 
-## Contact
-For support or inquiries, reach out to **[your-email@example.com](mailto:your-email@example.com)** or open an issue in the repository.
-
----
-
-This **Green Compliance & Carbon Tracking System** helps construction firms, regulatory bodies, and sustainability professionals drive eco-friendly practices and gain recognition for their green efforts!
 
